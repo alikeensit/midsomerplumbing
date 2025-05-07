@@ -152,3 +152,9 @@ footer {
   width: 100%;
   bottom: 0;
 }
+
+i.fas {
+  font-size: 2rem;
+  color: #0077cc;
+}
+
